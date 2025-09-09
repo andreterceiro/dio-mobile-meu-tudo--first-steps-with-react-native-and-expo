@@ -5,3 +5,5 @@
 ```
 npx create-expo-app green-lantern -t
 ```
+
+Then please select the template "Blank (TypeScript)".
