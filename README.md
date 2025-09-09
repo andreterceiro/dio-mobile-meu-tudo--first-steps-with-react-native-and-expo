@@ -28,4 +28,8 @@ About the tags like "<TextInput></TextInput>" in the next image, teacher enforce
 
 And the image showed how to configure a CSS inline in the app.
 
-Teacher referred the components (like TextInput) as like Lego pieces. 
+Teacher referred the components (like TextInput) as like Lego pieces.
+
+The final version of the code of App.tsx our first App was:
+
+![first-app-txt](images/first-app-tsx.png)
