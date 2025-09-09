@@ -24,4 +24,6 @@ Then Expo presented a QR Code in terminal and teacher could scan this QR Code in
 
 About the tags like "<TextInput></TextInput>" in the next image, teacher enforced that all needs to be imported (first line in the image).
 
-And the image showed how to configure a CSS inline in the app 
+![needs-import](images/needs-import.png)
+
+And the image showed how to configure a CSS inline in the app .
