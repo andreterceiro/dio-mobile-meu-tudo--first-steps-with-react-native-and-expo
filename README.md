@@ -26,4 +26,6 @@ About the tags like "<TextInput></TextInput>" in the next image, teacher enforce
 
 ![needs-import](images/needs-import.png)
 
-And the image showed how to configure a CSS inline in the app .
+And the image showed how to configure a CSS inline in the app.
+
+Teacher referred the components (like TextInput) as like Lego pieces. 
