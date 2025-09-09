@@ -47,3 +47,5 @@ A comment of the teacher: all components have the first letter uppercase.
 See in some print of the documentation that we can have a class component or a component based on a function.
 
 ![component based on a class or on a function](images/class-or-function-component.png)
+
+And that class components are more common in the past. Nowdays is more common components bases on functions.
