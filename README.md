@@ -23,3 +23,5 @@ npm run start
 Then Expo presented a QR Code in terminal and teacher could scan this QR Code in the Expo app.
 
 About the tags like "<TextInput></TextInput>" in the next image, teacher enforced that all needs to be imported (first line in the image).
+
+And the image showed how to configure a CSS inline in the app 
