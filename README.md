@@ -41,3 +41,5 @@ Teacher showed the result of the app in the Vysor application in the PC.
 Teacher also showed that if we insert a text that is not inside a component (like <Text />), you will see an error in the app.
 
 ![text outside a component](images/text-outside-a-component.png)
+
+A comment of the teacher: all components have the first letter uppercase.
