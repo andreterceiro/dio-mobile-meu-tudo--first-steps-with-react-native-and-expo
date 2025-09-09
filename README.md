@@ -19,3 +19,5 @@ The run the next command:
 ```
 npm run start
 ```
+
+Then Expo presented a QR Code in terminal and teacher could scan this QR Code in the Expo app.
