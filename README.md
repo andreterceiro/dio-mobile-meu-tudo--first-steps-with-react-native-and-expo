@@ -7,3 +7,5 @@ npx create-expo-app green-lantern -t
 ```
 
 Then please select the template "Blank (TypeScript)".
+
+The folder "green-lantern" (name that you inserted in the first command) was created.
