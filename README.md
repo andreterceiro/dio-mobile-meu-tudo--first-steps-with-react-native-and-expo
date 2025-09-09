@@ -13,3 +13,9 @@ The folder "green-lantern" (name that you inserted in the first command) was cre
 ```
 cd green-lantern
 ```
+
+The run the next command:
+
+```
+npm run start
+```
