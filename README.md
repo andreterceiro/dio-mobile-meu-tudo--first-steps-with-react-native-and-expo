@@ -49,3 +49,5 @@ See in some print of the documentation that we can have a class component or a c
 ![component based on a class or on a function](images/class-or-function-component.png)
 
 And that class components are more common in the past. Nowdays is more common components bases on functions.
+
+As you can see in a previous image, there we have a line "export default **function App() { ... }**".
