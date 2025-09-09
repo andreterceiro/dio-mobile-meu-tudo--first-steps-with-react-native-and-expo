@@ -35,3 +35,5 @@ Teacher referred the components (like TextInput) as like Lego pieces. And said t
 The final version of the code of App.tsx our first App was:
 
 ![first-app-txt](images/first-app-tsx.png)
+
+Teacher showed the result of the app in the Vysor application in the PC.
