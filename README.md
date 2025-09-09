@@ -39,3 +39,5 @@ The final version of the code of App.tsx our first App was:
 Teacher showed the result of the app in the Vysor application in the PC.
 
 Teacher also showed that if we insert a text that is not inside a component (like <Text />), you will see an error in the app.
+
+![text outside a component](images/text-outside-a-component.png)
