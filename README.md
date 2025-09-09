@@ -51,3 +51,5 @@ See in some print of the documentation that we can have a class component or a c
 And that class components are more common in the past. Nowdays is more common components bases on functions.
 
 As you can see in a previous image, there we have a line "export default **function App() { ... }**".
+
+Teacher said that these functions are builded with a function that return only **one** component (in all cases show to us was the component <View>...</View>). If you return more than 1 external component you will have an error as result.
