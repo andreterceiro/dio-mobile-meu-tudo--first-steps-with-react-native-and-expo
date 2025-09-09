@@ -28,7 +28,7 @@ About the tags like "<TextInput></TextInput>" in the next image, teacher enforce
 
 And the image showed how to configure a CSS inline in the app.
 
-Teacher referred the components (like TextInput) as like Lego pieces. And said to us that we can view the documentation when we need to see more about a specific component:
+Teacher referred the components (like TextInput) as like Lego pieces. And said to us that we can view the documentation when we need to see more about a specific component or we can use when we have an idea and needs to find a component that fits our idea:
 
 ![documentation](images/documentation.png)
 
