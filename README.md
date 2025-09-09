@@ -3,5 +3,5 @@
 - Please run the following command:
 
 ```
-npx create-expo-app green-lantern
+npx create-expo-app green-lantern -t
 ```
