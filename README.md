@@ -45,3 +45,5 @@ Teacher also showed that if we insert a text that is not inside a component (lik
 A comment of the teacher: all components have the first letter uppercase.
 
 See in some print of the documentation that we can have a class component or a component based on a function.
+
+![component based on a class or on a function](images/class-or-function-component.png)
