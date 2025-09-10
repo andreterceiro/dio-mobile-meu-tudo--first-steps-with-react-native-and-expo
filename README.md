@@ -68,3 +68,5 @@ What will use to define a style, like was done in the image, is similar to CSS.
 Obviously you can declare several configurations, but you need to separe the configurations using quotes. Please see this image:
 
 ![several styles using quotes](images/several-style-configurations.png)
+
+If you wanna to declare several style configurations you can use StyleSheet.create.
