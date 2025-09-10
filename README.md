@@ -55,3 +55,8 @@ As you can see in a previous image, there we have a line "export default **funct
 Teacher said that these functions are builded with a function that return only **one** component (in all cases show to us was the component <View>...</View>). If you return more than 1 external component you will have an error as result. Example (**wrong**):
 
 ![more than 1 external components](images/more-than-one-external-component.png)
+
+
+# Styles
+
+Teacher explained that the styles can be inline or not inline. Inline uses two brackets ("{{") to declare and not inline only one ("{").
