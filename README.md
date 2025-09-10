@@ -72,3 +72,8 @@ Obviously you can declare several configurations, but you need to separe the con
 If you wanna to declare several style configurations you can use StyleSheet.create. See:
 
 ![Stylesheet.create](images/stylesheet-create.png)
+
+See some CSS differences:
+
+- The use of quotes separating the style configurations;
+- The configurations, like "backgroundColor", are in camel case and not separated by dashes (like "background-color").
