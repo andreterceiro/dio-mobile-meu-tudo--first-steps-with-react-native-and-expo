@@ -69,4 +69,6 @@ Obviously you can declare several configurations, but you need to separe the con
 
 ![several styles using quotes](images/several-style-configurations.png)
 
-If you wanna to declare several style configurations you can use StyleSheet.create.
+If you wanna to declare several style configurations you can use StyleSheet.create. See:
+
+![Stylesheet.create](images/stylesheet-create.png)
