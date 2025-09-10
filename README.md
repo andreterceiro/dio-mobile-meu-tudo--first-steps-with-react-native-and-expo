@@ -77,3 +77,7 @@ See some CSS differences:
 
 - The use of quotes separating the style configurations;
 - The configurations, like "backgroundColor", are in camel case and not separated by dashes (like "background-color").
+
+Please remember to import "StyleSheet":
+
+![importing Stylesheet](images/importing-StyleSheet.png)
