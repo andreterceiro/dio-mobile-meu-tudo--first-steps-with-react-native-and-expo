@@ -65,4 +65,6 @@ Teacher explained that the styles can be inline or not inline. Inline uses two b
 
 What will use to define a style, like was done in the image, is similar to CSS.
 
-Obviously you can declare several configurations, but you need to separe the configurations using quotes.
+Obviously you can declare several configurations, but you need to separe the configurations using quotes. Please see this image:
+
+![several styles using quotes](images/several-style-configurations.png)
