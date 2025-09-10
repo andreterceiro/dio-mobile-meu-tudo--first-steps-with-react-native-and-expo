@@ -64,3 +64,5 @@ Teacher explained that the styles can be inline or not inline. Inline uses two b
 ![inline or not styles](images/styles.png)
 
 What will use to define a style, like was done in the image, is similar to CSS.
+
+Obviously you can declare several configurations, but you need to separe the configurations using quotes.
