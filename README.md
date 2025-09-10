@@ -62,3 +62,5 @@ Teacher said that these functions are builded with a function that return only *
 Teacher explained that the styles can be inline or not inline. Inline uses two brackets ("{{") to declare and not inline only one ("{"). See:
 
 ![inline or not styles](images/styles.png)
+
+What will use to define a style, like was done in the image, is similar to CSS.
