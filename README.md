@@ -85,4 +85,6 @@ Please remember to import "StyleSheet":
 
 # Comments
 
-Comments can be inserted using **{/* this is a comment*/}**. **Teacher said we use this way because everything is an object in React Native world**. 
+Comments can be inserted using **{/* this is a comment*/}**. **Teacher said we use this way because everything is an object in React Native world**.
+
+![comment example](images/comment-example.png)
