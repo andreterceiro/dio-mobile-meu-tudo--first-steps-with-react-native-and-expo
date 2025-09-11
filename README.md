@@ -99,3 +99,9 @@ Teacher showed the **"Image"** component from the documentation:
 Please see the following example application loading an image:
 
 ![example - loading an image](images/loading-an-image-example.png)
+
+Teacher needed:
+
+- **1:** To import the **Image** component (top of the image example above);
+- **2:** To import the image specifying its path;
+- **3:** Use the **Image** component with the property source pointing the value the imported image in the step 2.
