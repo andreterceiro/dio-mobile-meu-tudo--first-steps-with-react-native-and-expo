@@ -92,4 +92,6 @@ Comments can be inserted using **{/* this is a comment*/}**. **Teacher said we u
 
 # Images
 
-Teacher showed the **"Image"** component from the documentation.
+Teacher showed the **"Image"** component from the documentation:
+
+![Image component in documentation](images/Image-component-in-documentation.png)
