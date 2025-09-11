@@ -81,3 +81,8 @@ See some CSS differences:
 Please remember to import "StyleSheet":
 
 ![importing Stylesheet](images/importing-StyleSheet.png)
+
+
+# Comments
+
+Comments can be inserted using **{/* this is a comment*/}**.
