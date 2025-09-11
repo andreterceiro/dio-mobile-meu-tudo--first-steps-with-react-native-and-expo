@@ -105,3 +105,7 @@ Teacher needed:
 - **1:** To import the **Image** component (top of the image example above);
 - **2:** To import the image specifying its path;
 - **3:** Use the **Image** component with the property source pointing the value the imported image in the step 2.
+
+Teacher said that you can specify directly the image path specifying its path:
+
+![specifying image path directly](images/specifying-image-path-directly.png)
