@@ -109,3 +109,5 @@ Teacher needed:
 Teacher said that you can specify directly the image path specifying its path:
 
 ![specifying image path directly](images/specifying-image-path-directly.png)
+
+Please pay attention that he used double brackets ("{{}}") in the property source in this case.
