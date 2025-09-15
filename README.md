@@ -122,3 +122,8 @@ To avoid this warning, teacher told that this warning was related to TypeScript 
 Please create a file index.d.ts with the content "declare module '*.png'":
 
 ![index.d.ts](images/index.d.ts)
+
+
+# Reloading a app if a image was not found
+
+Teacher said that this can be occur and in this case you have to stop the server, run it again (`npm run start`), then in the screen in the terminal after running the app again, please use the 'r' (reload) option.
