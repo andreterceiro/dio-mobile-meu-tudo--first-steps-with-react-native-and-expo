@@ -189,3 +189,8 @@ Using:
 The image to be touchable have to be inside <TouchableOpacity></TouchableOpacity>. Please remember to import TouchableOpacity. See:
 
 ![Touchable opacity](images/TouchableOpacity.png)
+
+
+## Using onclick on Touchable Opacity
+
+![using onclick on Touchable Opacity](images/using-on-click-on-TouchableOpacity.png)
