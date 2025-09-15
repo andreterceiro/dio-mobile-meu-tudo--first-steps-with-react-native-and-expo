@@ -111,3 +111,8 @@ Teacher said that you can specify directly the image path specifying its path:
 ![specifying image path directly](images/specifying-image-path-directly.png)
 
 Please pay attention that he used double brackets ("{{}}") in the property source in this case.
+
+
+# Avoiding a warning in VSCode
+
+To avoid this warning, teacher told that this warning was related to TypeScript is be related to the existences of types and "png" not to be a type.
