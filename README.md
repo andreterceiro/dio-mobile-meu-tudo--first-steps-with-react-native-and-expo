@@ -193,4 +193,6 @@ The image to be touchable have to be inside <TouchableOpacity></TouchableOpacity
 
 ## Using onclick on Touchable Opacity
 
-![using onclick on Touchable Opacity](images/using-on-click-on-TouchableOpacity.png)
+To show a message in terminal
+
+![using onclick on Touchable Opacity to show a message in terminal](images/using-on-click-on-TouchableOpacity-to-show-a-message-in-terminal.png)
