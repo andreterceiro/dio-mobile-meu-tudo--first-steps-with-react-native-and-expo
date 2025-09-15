@@ -179,3 +179,7 @@ Please see the following image:
 Configuring:
 
 ![configuring a conditional style](images/configuring-a-conditional-style.png)
+
+Using:
+
+!using a conditional style](images/using-a-conditional-style.png)
