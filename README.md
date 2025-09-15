@@ -137,24 +137,26 @@ Teacher said that this can be occur and in this case you have to stop the server
 
 Please use to image fill all area. Without "flex: 1" (when styling):
 
-![without flex 1](images/without-flex-1.png)
+![without flex: 1](images/without-flex-1.png)
 
 With "flex 1":
 
-![without flex 1](images/with-flex-1.png)
+![without flex: 1](images/with-flex-1.png)
 
 
 ## Aligning vertically
 
 Please use "justifyContent: 'center'".  Without "justifyContent: 'center'" (when styling):
 
-![without justify content center](images/without-justify-content-center.png)
+![without justifyContent: 'center'](images/without-justify-content-center.png)
 
 With "justifyContent: 'center'":
 
-![with justify content center](images/with-justify-content-center.png)
+![with justifyContent 'center'](images/with-justify-content-center.png)
 
 
 ## Aligning horizontally
 
-Please use "alignItems: 'center'"
+Please use "alignItems: 'center'". Without "alignItems: 'center'" (when styling):
+
+![without alignItems:center](images/without-align-items-center.png)
