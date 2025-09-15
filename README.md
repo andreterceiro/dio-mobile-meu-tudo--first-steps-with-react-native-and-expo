@@ -173,7 +173,6 @@ Please see the following image:
 ![changing image source depending on a variable](images/changing-image-source-depending-on-a-variable.png)
 
 
-
 # Conditional styles
 
 Configuring:
@@ -183,3 +182,8 @@ Configuring:
 Using:
 
 ![using a conditional style](images/using-a-conditional-style.png)
+
+
+# Touchable Opacity
+
+The image to be touchable have to be inside <TouchableOpacity></TouchableOpacity>. Please remember to import TouchableOpacity.
