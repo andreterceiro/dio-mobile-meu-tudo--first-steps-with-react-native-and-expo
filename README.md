@@ -135,4 +135,6 @@ Teacher said that this can be occur and in this case you have to stop the server
 
 ## Flex 1
 
-Please use to image fill all area.
+Please use to image fill all area. Without "flex 1" (styling):
+
+![without flex 1](images/without-flex-1.png)
