@@ -152,7 +152,7 @@ Please use "justifyContent: 'center'".  Without "justifyContent: 'center'" (when
 
 With "justifyContent: 'center'":
 
-![with justifyContent 'center'](images/with-justify-content-center.png)
+![with justifyContent: 'center'](images/with-justify-content-center.png)
 
 
 ## Aligning horizontally
@@ -160,3 +160,7 @@ With "justifyContent: 'center'":
 Please use "alignItems: 'center'". Without "alignItems: 'center'" (when styling):
 
 ![without alignItems:center](images/without-align-items-center.png)
+
+With "alignItems: 'center'":
+
+![with alignItems: 'center'](images/with-align-items-center.png)
