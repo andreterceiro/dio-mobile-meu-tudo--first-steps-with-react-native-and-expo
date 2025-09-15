@@ -119,4 +119,6 @@ To avoid this warning, teacher told that this warning was related to TypeScript 
 
 ![warning no png type](images/warning-no-png-type.png)
 
-Please create a file index.d.ts with the content "declare module '*.png'".
+Please create a file index.d.ts with the content "declare module '*.png'":
+
+![index.d.ts](images/index.d.ts)
