@@ -129,3 +129,10 @@ Please create a file index.d.ts with the content "declare module '*.png'":
 Teacher said that this can be occur and in this case you have to stop the server, run it again (`npm run start`), then in the screen in the terminal after running the app again, please use the 'r' (reload) option.
 
 ![reloading app](images/reloading-app.png)
+
+
+# Random information
+
+## Flex 1
+
+Please use to image fill all area.
