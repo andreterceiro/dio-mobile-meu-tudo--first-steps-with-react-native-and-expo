@@ -182,4 +182,4 @@ Configuring:
 
 Using:
 
-!using a conditional style](images/using-a-conditional-style.png)
+![using a conditional style](images/using-a-conditional-style.png)
