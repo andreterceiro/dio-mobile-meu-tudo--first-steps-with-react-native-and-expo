@@ -153,3 +153,8 @@ Please use "justifyContent: 'center'".  Without "justifyContent: 'center'" (when
 With "justifyContent: 'center'":
 
 ![with justify content center](images/with-justify-content-center.png)
+
+
+## Aligning horizontally
+
+Please use "alignItems: 'center'"
