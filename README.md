@@ -193,6 +193,10 @@ The image to be touchable have to be inside <TouchableOpacity></TouchableOpacity
 
 ## Using onclick on Touchable Opacity
 
-To show a message in terminal
+To show a message in terminal:
 
 ![using onclick on Touchable Opacity to show a message in terminal](images/using-on-click-on-TouchableOpacity-to-show-a-message-in-terminal.png)
+
+But, of course, instead an arrow function, you can have a handler function:
+
+![using onclick on Touchable Opacity with a handler function](images/using-on-click-on-TouchableOpacity-with-a-handler-function.png)
