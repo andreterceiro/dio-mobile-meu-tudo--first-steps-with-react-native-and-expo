@@ -135,10 +135,15 @@ Teacher said that this can be occur and in this case you have to stop the server
 
 ## Flex 1
 
-Please use to image fill all area. Without "flex 1" (styling):
+Please use to image fill all area. Without "flex: 1" (when styling):
 
 ![without flex 1](images/without-flex-1.png)
 
 With "flex 1":
 
 ![without flex 1](images/with-flex-1.png)
+
+
+## Aligning vertically
+
+Please use "justifyContent: 'center'".
