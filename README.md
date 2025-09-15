@@ -164,3 +164,10 @@ Please use "alignItems: 'center'". Without "alignItems: 'center'" (when styling)
 With "alignItems: 'center'":
 
 ![with alignItems: 'center'](images/with-align-items-center.png)
+
+
+# Changing an image depending on a variable
+
+Please see the following image:
+
+![changing image source depending on a variable](images/changing-image-source-depending-on-a-variable.png)
