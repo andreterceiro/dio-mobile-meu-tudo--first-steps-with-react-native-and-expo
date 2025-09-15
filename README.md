@@ -171,3 +171,11 @@ With "alignItems: 'center'":
 Please see the following image:
 
 ![changing image source depending on a variable](images/changing-image-source-depending-on-a-variable.png)
+
+
+
+# Conditional styles
+
+Configuring:
+
+![configuring a conditional style](images/configuring-a-conditional-style.png)
