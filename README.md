@@ -149,3 +149,7 @@ With "flex 1":
 Please use "justifyContent: 'center'".  Without "justifyContent: 'center'" (when styling):
 
 ![without justify content center](images/without-justify-content-center.png)
+
+With "justifyContent: 'center'":
+
+![with justify content center](images/with-justify-content-center.png)
