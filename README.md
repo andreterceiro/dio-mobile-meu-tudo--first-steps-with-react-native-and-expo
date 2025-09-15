@@ -146,4 +146,6 @@ With "flex 1":
 
 ## Aligning vertically
 
-Please use "justifyContent: 'center'".
+Please use "justifyContent: 'center'".  Without "justifyContent: 'center'" (when styling):
+
+![without justify content center](images/without-justify-content-center.png)
