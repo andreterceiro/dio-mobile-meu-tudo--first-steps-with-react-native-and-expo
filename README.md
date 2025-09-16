@@ -228,3 +228,8 @@ But maybe you think: ok, I can change the state of the variable, but what is the
 # Repository related to the chapter
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-green-latern-app)
+
+
+# External link passed by the teacher
+
+[React Native docs - button](https://reactnative.dev/docs/button)
