@@ -223,3 +223,8 @@ Notes:
 But maybe you think: ok, I can change the state of the variable, but what is the relation to a touch in the app? Is because we have a click handler in TouchableOpacity!
 
 ![click handler - TouchableOpacity](images/click-handler-TouchableOpacity.png)
+
+
+# Repository related to the chapter
+
+[link](https://github.com/digitalinnovationone/trilha-react-native-green-latern-app)
