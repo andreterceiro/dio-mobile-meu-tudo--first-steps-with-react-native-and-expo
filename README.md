@@ -211,3 +211,7 @@ Teacher did this import:
 ```
 import React, {useState} from 'react';
 ```
+
+Then teacher used this way:
+
+![useState](images/useState.png)
