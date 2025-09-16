@@ -215,3 +215,6 @@ import React, {useState} from 'react';
 Then teacher used this way:
 
 ![useState](images/useState.png)
+
+Notes:
+- Interesting, teacher changed this way a **constant**!;
