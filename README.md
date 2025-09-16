@@ -218,3 +218,4 @@ Then teacher used this way:
 
 Notes:
 - Interesting, teacher changed this way a **constant**!;
+- The order of the parameters in the above image on declaring the constants was variable (isActive), handlerFunction (setisActive) = useState(false) (false in this case is the initial value of the variable).
