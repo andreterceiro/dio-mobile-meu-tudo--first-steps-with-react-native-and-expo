@@ -200,3 +200,8 @@ To show a message in terminal:
 But, of course, instead an arrow function, you can have a handler function:
 
 ![using onclick on Touchable Opacity with a handler function](images/using-on-click-on-TouchableOpacity-with-a-handler-function.png)
+
+
+# Hooks, useState and changing variables
+
+If you have as example a click handler that changes a value linked to a variable, that on the handler changes the style of an element, this change will not works because you need to use hooks.
