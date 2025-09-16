@@ -219,3 +219,7 @@ Then teacher used this way:
 Notes:
 - Interesting, teacher changed this way a **constant**!;
 - The order of the parameters in the above image on declaring the constants was variable (isActive), handlerFunction (setisActive) = useState(false) (false in this case is the initial value of the variable).
+
+But maybe you think: ok, I can change the state of the variable, but what is the relation to a touch in the app? Is because we have a click handler in TouchableOpacity!
+
+![click handler - TouchableOpacity](images/click-handler-TouchableOpacity.png)
