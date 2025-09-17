@@ -121,7 +121,7 @@ To avoid this warning, teacher told that this warning was related to TypeScript 
 
 Please create a file index.d.ts with the content "declare module '*.png'":
 
-![index.d.ts](images/index.d.ts)
+![index.d.ts](images/index.d.ts.png)
 
 
 # Reloading a app if a image was not found
